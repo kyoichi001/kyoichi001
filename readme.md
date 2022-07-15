@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoichi001)](https://github.com/kyoichi001/github-readme-stats)
 
 ### 自己紹介
 ゲーム開発をしてたり、Webシステムの開発をしてます。
